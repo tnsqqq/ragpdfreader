@@ -1,0 +1,57 @@
+{
+  "8b85b71e-59b1-4fd7-95fb-a26a496fc6c2": {
+    "id": "8b85b71e-59b1-4fd7-95fb-a26a496fc6c2",
+    "filename": "Quantum_Manual.txt",
+    "originalName": "Quantum_Manual.txt",
+    "numPages": 1,
+    "totalChunks": 1,
+    "totalTokens": 75,
+    "uploadedAt": "2026-09-22T14:00:59.669Z",
+    "fileSize": 298,
+    "mimeType": "text/plain"
+  },
+  "527c4f8d-2d5f-4343-9931-08e5fe08422a": {
+    "id": "527c4f8d-2d5f-4343-9931-08e5fe08422a",
+    "filename": "Resume.pdf",
+    "originalName": "Resume.pdf",
+    "numPages": 1,
+    "totalChunks": 2,
+    "totalTokens": 949,
+    "uploadedAt": "2026-09-22T14:04:23.817Z",
+    "fileSize": 375248,
+    "mimeType": "application/pdf"
+  },
+  "df1e25b0-9661-4773-9018-d80c7d3f9017": {
+    "id": "df1e25b0-9661-4773-9018-d80c7d3f9017",
+    "filename": "Resume.pdf",
+    "originalName": "Resume.pdf",
+    "numPages": 1,
+    "totalChunks": 2,
+    "totalTokens": 949,
+    "uploadedAt": "2026-09-22T14:14:32.064Z",
+    "fileSize": 375248,
+    "mimeType": "application/pdf"
+  },
+  "7eca3cda-3376-4f5f-9574-e52043c5a3e1": {
+    "id": "7eca3cda-3376-4f5f-9574-e52043c5a3e1",
+    "filename": "Mewing MAXXING.pdf",
+    "originalName": "Mewing MAXXING.pdf",
+    "numPages": 30,
+    "totalChunks": 30,
+    "totalTokens": 2035,
+    "uploadedAt": "2026-09-22T14:19:50.929Z",
+    "fileSize": 2613019,
+    "mimeType": "application/pdf"
+  },
+  "bb0aeeec-0d11-41e4-9d5a-957c58993c9a": {
+    "id": "bb0aeeec-0d11-41e4-9d5a-957c58993c9a",
+    "filename": "book.txt",
+    "originalName": "book.txt",
+    "numPages": 1,
+    "totalChunks": 72,
+    "totalTokens": 33865,
+    "uploadedAt": "2026-09-22T14:24:09.001Z",
+    "fileSize": 118343,
+    "mimeType": "text/plain"
+  }
+}

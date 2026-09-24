@@ -1,0 +1,34 @@
+{
+  "name": "document-rag-backend",
+  "version": "1.0.0",
+  "description": "Production-grade RAG Document QA Backend with Node.js, Express, ChromaDB, and OpenAI",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "chroma": "python -c \"import sys; from chromadb.cli.cli import app; sys.argv=['chroma', 'run', '--path', './chroma_data', '--port', '8000']; app()\"",
+    "test": "node test-rag.js"
+  },
+  "dependencies": {
+    "chromadb": "^3.5.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "multer": "^1.4.5-lts.1",
+    "openai": "^4.86.1",
+    "pdf-parse": "^1.1.1",
+    "uuid": "^11.1.0"
+  },
+  "keywords": [
+    "rag",
+    "chromadb",
+    "openai",
+    "vector-database",
+    "semantic-search",
+    "embeddings",
+    "document-qa"
+  ],
+  "author": "",
+  "license": "MIT"
+}

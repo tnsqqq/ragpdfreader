@@ -1,0 +1,6 @@
+node_modules/
+.env
+**/.env
+.vite/
+dist/
+__pycache__/
